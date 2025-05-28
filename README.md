@@ -1,7 +1,7 @@
 # EX NO: 1 : Cloud-account-set-up-and-services
 ```
-NAME : V Rishon Anand 
-REG NO : 212224240135
+NAME : A S Siddarth
+REG NO : 212224040316
 ```
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
